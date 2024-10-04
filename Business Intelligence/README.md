@@ -1,0 +1,3 @@
+# Business Intelligence Projects - Analyzing Big Data 
+
+These projects analyze Amazon book reviews to extract valuable consumer insights, helping businesses in the book retail industry better understand customer sentiment, preferences, and behaviours. The study leverages advanced analytics techniques such as sentiment analysis, topic modelling, and n-gram analysis to uncover key themes and trends in consumer feedback. Additionally, a content-based product recommendation with a sentiment labels system is implemented to enhance personalized customer experiences. By tapping into unstructured data, businesses can use these insights to improve product recommendations, optimize marketing strategies, and drive long-term growth in a competitive market.
