@@ -1,0 +1,3 @@
+# Machine Learning Project - Customer Churn Prediction
+
+This project aims to develop an effective machine learning model to predict customer churn for an Iranian telecommunications company, enhancing customer retention strategies. The approach includes extensive data exploration, cleaning, and preparation, followed by exploratory data analysis (EDA) to identify key insights and features. Several machine learning algorithms are applied to predict churn, with models evaluated based on accuracy and performance metrics. Hyperparameter tuning is used to optimize model performance. The final models are compared to identify the most effective solution, providing actionable insights to improve customer retention efforts.
